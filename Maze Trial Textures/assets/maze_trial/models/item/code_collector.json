@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "maze_trial:item/code_collector",
+    "layer1": "maze_trial:item/code_collector_overlay"
+  }
+}
